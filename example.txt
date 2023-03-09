@@ -1,2 +1,4 @@
 Another example
+My name is Alex
 Hellow World
+Goodbye
